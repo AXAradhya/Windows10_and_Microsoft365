@@ -16,4 +16,10 @@ STEP 3: Right Click on " Activation File .bat " and RUN AS ADMINISTRATOR.
 STEP 4: Tada !! Now your windows 10 PRO is ready
 
 ~Microsoft 365 Download~
-STEP 1: 
+STEP 1: Download " Setup-X64 -365 ProPlus Retail.exe "
+STEP 2: Run this File " Setup-X64 -365 ProPlus Retail.exe "
+STEP 3: Wait till it's Installed
+STEP 4: Now you have SUCCESSFULLY installed Microsoft 365 But It's Not Activated Yet......
+
+~Activate Microsoft 365~
+STEP 1:
