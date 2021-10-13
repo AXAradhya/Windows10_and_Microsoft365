@@ -31,4 +31,4 @@ STEP 4: Now your All Microsoft 365 PRODUCTS are activated.
 ©AXAradhya_Github 
 
 ~~ DISCLAIMER ~~
-AXAradhya
+AXAradhya would not be held responsible for any damage, error, Malfunctioning of your Device. DO THIS AT YOUR OWN RISK....
