@@ -10,4 +10,10 @@ STEP 1: Download the file named " Media Creation tool " from Repository or FROM 
 STEP 2: It's Easy follow the steps and Download windows.
 
 ~ACTIVATING WINDOWS 10 PRO!
+STEP 1: Now you have downloaded windows 10 and on BOTTOM RIGHT Side you will See " Activate Windows "
+STEP 2: Now Download " Activation File .bat " And 
+STEP 3: Right Click on " Activation File .bat " and RUN AS ADMINISTRATOR.
+STEP 4: Tada !! Now your windows 10 PRO is ready
+
+~Microsoft 365 Download~
 STEP 1:
