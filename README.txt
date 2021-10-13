@@ -22,4 +22,13 @@ STEP 3: Wait till it's Installed
 STEP 4: Now you have SUCCESSFULLY installed Microsoft 365 But It's Not Activated Yet......
 
 ~Activate Microsoft 365~
-STEP 1:
+STEP 1: Download " Activation File Microsoft365 .bat "
+STEP 2: Right Click on " Activation File Microsoft365 .bat " and RUN AS ADMINISTRATOR
+STEP 3: Wait for the Magic
+STEP 4: Now your All Microsoft 365 PRODUCTS are activated.
+
+
+©AXAradhya_Github 
+
+~~ DISCLAIMER ~~
+AXAradhya
