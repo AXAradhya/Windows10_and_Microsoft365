@@ -16,4 +16,4 @@ STEP 3: Right Click on " Activation File .bat " and RUN AS ADMINISTRATOR.
 STEP 4: Tada !! Now your windows 10 PRO is ready
 
 ~Microsoft 365 Download~
-STEP 1:
+STEP 1: 
